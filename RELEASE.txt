@@ -1,0 +1,8 @@
+Finansu harmonija V19 frozen testing release
+Source commit: 3ad31c4b14409d9f99d0ecc9192a735af7abf4bb
+Source tag: v19
+Source archive: source-v19.zip
+Source archive SHA-256: 8c026b6b76538aa1950c1699edbf736c66320850517367289e16cf119ee0bf64
+Further development: separate V20 workspace only
+Local V20: http://127.0.0.1:5201/
+This is a demo, not production authentication or accounting.
